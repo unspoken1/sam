@@ -1,0 +1,10 @@
+Package: com.bingner.sam
+Version: 0.1.14-2
+Architecture: iphoneos-arm
+Description: Subscriber Artificial Module activates any iPhone
+Maintainer: sbingner <sam@tetherme.net>
+Author: sbingner <sam@tetherme.net>
+Section: Utilities
+Depends: mobilesubstrate (>= 0.9.3209-1), firmware (>= 3.0), com.ericasadun.utilities, com.bingner.samprefs (>= 0.1.14)
+Name: SAM
+Installed-Size: 88
